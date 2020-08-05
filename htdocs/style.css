@@ -1,0 +1,83 @@
+.bar {
+  font-size:84px;
+  
+}
+
+body {
+  color: #000000;
+  background-color: #FFF;
+}
+footer {
+  background-color: #cde4ff;
+}
+h1 {
+    position: absolute;
+    right: 800px;
+    bottom: 100px;
+    }
+
+h2 {
+    position: absolute;
+    right: 250px;
+    bottom: 100px;
+    } 
+
+h3 {color: #000000;}
+ 
+    
+.btn-circle-fishy {
+  display: inline-block;
+  text-decoration: none;
+  color: #FFF;
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  border-radius: 100%;
+  text-align: center;
+  overflow: hidden;
+  background-image: linear-gradient(45deg, #fd3737 0%, #ff7cc4fa 100%);
+  transition: .4s;
+}
+
+.btn-circle-fishy:hover {
+  -webkit-transform: rotate(10deg);
+  transform: rotate(10deg);
+}
+
+.btn-circle-fishy1 {
+  display: inline-block;
+  text-decoration: none;
+  color: #FFF;
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  border-radius: 100%;
+  text-align: center;
+  overflow: hidden;
+  background-image: linear-gradient(45deg, #fc800d 0%, #ffec3dfa 100%);
+  transition: .4s;
+}
+
+.btn-circle-fishy1:hover {
+  -webkit-transform: rotate(10deg);
+  transform: rotate(10deg);
+}
+
+.btn-circle-fishy2 {
+  display: inline-block;
+  text-decoration: none;
+  color: #FFF;
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  border-radius: 100%;
+  text-align: center;
+  overflow: hidden;
+  background-image: linear-gradient(45deg, #298804fb 0%, #28ee32fa 100%);
+  transition: .4s;
+}
+
+.btn-circle-fishy2:hover {
+  -webkit-transform: rotate(10deg);
+  transform: rotate(10deg);
+}
